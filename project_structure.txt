@@ -1,0 +1,17 @@
+eCommerceAPI/
+|-- app/
+|   |-- __init__.py
+|   |-- config.py
+|   |-- models.py
+|   |-- routes/
+|       |-- __init__.py
+|       |-- products.py
+|       |-- customers.py
+|       |-- orders.py
+|   |-- utils/
+|       |-- __init__.py
+|       |-- authentication.py
+|   |-- app.py
+|-- requirements.txt
+
+
